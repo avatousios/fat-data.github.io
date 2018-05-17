@@ -1,5 +1,5 @@
 ---
 name: Antonis Vatousios 
 role: Lead Analyst
-img: 16452328.jpeg
+img: Copy of IMG_20180516_145526.jpg
 ---
